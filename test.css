@@ -1,4 +1,8 @@
+.unlayer-powered-by {
+  display: none !important;
+}
+
 .blockbuilder-preview {
-  background-color: yellow;
-  background-image: none;
+  background-color: yellow !important;
+  background-image: none !important;
 }
